@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.12.5 <2.23.2"
+    "browser-sync": "^2.26.3"
+  },
+  "dependencies": {
+    "cryptiles": "^4.1.3",
+    "hoek": "^6.0.2",
+    "lodash": "^4.17.11",
+    "mime": "^2.3.1"
   }
 }
